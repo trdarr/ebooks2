@@ -1,3 +1,6 @@
+cdk.out
+*.zip
+
 ### https://raw.github.com/github/gitignore/07b3cd7a90de3fb5e88303a23d619ebd4cdd807a/Python.gitignore
 
 # Byte-compiled / optimized / DLL files

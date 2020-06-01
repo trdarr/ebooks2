@@ -1,0 +1,3 @@
+boto3==1.13.15
+markovify==0.8.0
+requests==2.23.0

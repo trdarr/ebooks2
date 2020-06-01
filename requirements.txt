@@ -1,0 +1,14 @@
+-r ebooks2/requirements.txt
+autopep8==1.5.2
+aws-cdk.aws-apigatewayv2==1.41.0
+aws-cdk.aws-certificatemanager==1.41.0
+aws-cdk.aws-lambda==1.41.0
+aws-cdk.aws-lambda-event-sources==1.41.0
+aws-cdk.aws-route53==1.41.0
+aws-cdk.aws-s3==1.41.0
+aws-cdk.aws-sqs==1.41.0
+aws-cdk.core==1.41.0
+freezegun==0.3.15
+pylint==2.5.2
+pytest-cov==2.8.1
+pytest==5.4.2
